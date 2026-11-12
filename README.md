@@ -16,3 +16,23 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/Ryan288451).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Vértice FC
+
+Um jogo de futebol de navegador, inteiramente offline e sem dependências externas. Abra `index.html` diretamente ou rode um servidor local:
+
+```bash
+python3 -m http.server 3002
+```
+
+Acesse `http://localhost:3002`. O progresso e as moedas ficam salvos localmente no navegador.
+
+### Como jogar
+
+- **WASD / setas** ou o joystick na tela: movimentar o jogador.
+- **Espaço** ou **Chute**: finalizar ao gol.
+- **J** ou **Passe**: tocar para um companheiro.
+- **Shift / Correr**: sprint e disputa de bola.
+- **Treinamento**: prática livre sem cronômetro.
+
+Ganhe partidas para receber moedas, desbloquear reforços no mercado e acompanhar as vitórias da temporada.
